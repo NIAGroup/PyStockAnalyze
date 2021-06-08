@@ -19,7 +19,7 @@ lxml==4.3.3
 matplotlib==3.0.2
 numpy==1.16.1
 openpyxl==2.6.0
-Pillow==5.4.1
+Pillow==8.2.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
 pyparsing==2.3.1
